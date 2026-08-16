@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,15 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -122,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
