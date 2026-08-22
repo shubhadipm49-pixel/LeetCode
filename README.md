@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
 |  |
 | ------- |
