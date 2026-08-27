@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1251-average-selling-price) |
 ## Two Pointers
 |  |
