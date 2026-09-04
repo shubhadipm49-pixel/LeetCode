@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |
