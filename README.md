@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
