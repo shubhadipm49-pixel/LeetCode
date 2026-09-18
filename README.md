@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -330,5 +333,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0835-image-overlap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
