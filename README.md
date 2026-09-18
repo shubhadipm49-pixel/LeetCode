@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0015-3sum) |
+| [0845-longest-mountain-in-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0486-predict-the-winner) |
+| [0845-longest-mountain-in-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0940-distinct-subsequences-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0835-image-overlap) |
+| [0845-longest-mountain-in-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
