@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
