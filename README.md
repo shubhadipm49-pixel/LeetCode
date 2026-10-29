@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-employees-with-missing-information](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3421-find-students-who-improved](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3421-find-students-who-improved) |
 ## Two Pointers
 |  |
 | ------- |
