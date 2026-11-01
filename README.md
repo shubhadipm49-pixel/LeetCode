@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
