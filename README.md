@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -535,5 +536,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
