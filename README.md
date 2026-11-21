@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1672-richest-customer-wealth](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1882-process-tasks-using-servers) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1672-richest-customer-wealth](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3665-twisted-mirror-path-count) |
