@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1872-stone-game-viii) |
@@ -600,4 +603,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
