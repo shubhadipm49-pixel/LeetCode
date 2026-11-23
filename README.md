@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0217-contains-duplicate) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhadipm49-pixel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
